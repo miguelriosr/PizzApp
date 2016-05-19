@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    width: 98%;
+}
+
+header{
+    background-color: #463322;
+    color: #ddd;
+}
