@@ -21,6 +21,11 @@ header h1{
     float: right;
 }
 
+header h1 a{
+    color: #eee;
+    text-decoration: none;
+}
+
 
 #menu-bar{
     display: none;
