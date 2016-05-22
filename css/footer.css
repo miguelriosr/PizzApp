@@ -1,0 +1,188 @@
+footer{
+	background-color: #2d2d2d;
+	font: normal 11px sans-serif;
+	color: white;
+	margin: 0px;
+	padding: 10px;
+   text-align: center;
+}
+
+#foot{
+    text-align: center;
+    color: #999;
+}
+
+footer a{
+    text-decoration: none;
+    color: #eee;
+}
+
+#foot-title{
+	font: bold 12px sans-serif;
+	text-align: left;
+	color: #cccccc;
+	margin: 5px 160px;
+}
+
+#foot-text{
+	font: normal 14px sans-serif;
+	text-align: left;
+	color: #cccccc;
+	margin: 0px 160px;
+}
+
+.menu-foot{
+    display: inline-block;
+}
+
+footer fieldset{
+    text-align: left;
+    border: none;
+    width: 20%;
+    margin: 10px;
+    background-color: #2d2d2d;
+}
+
+
+#footer-title{
+    font: bold 12px sans-serif;
+    margin: 10px;
+    color: #999;
+    padding: 3px;
+    border-radius: 7px;
+    transition: 0.5s;
+}
+
+#footer-title:hover{
+    background: #0099ff;
+    color: #eee;
+}
+
+#footer-txt{
+    font: normal 11px sans-serif;
+    margin: 0 0px;
+    color: #888;
+    padding: 2px;
+    border-radius: 10px;
+    transition: 0.1s;
+}
+
+#footer-txt:hover{
+    background: #999;
+    color: #000;
+}
+
+footer #footer-txt a{
+    font: normal 11px sans-serif;
+    margin: 10px;
+    color: #888;
+}
+
+#footer-txt a:hover{
+    background: #999;
+    color: #000;
+}
+
+footer .linea{
+    color: #999;
+}
+
+footer fieldset{
+    border-color: #0099FF;
+}
+
+
+@media screen and (max-width:480px){
+
+footer{
+    background: rgba(0,0,0,.8);
+    font: normal 11px gisha, arial, sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+#foot{
+    text-align: center;
+    color: #999;
+}
+
+footer a{
+    text-decoration: none;
+    color: #eee;
+}
+
+#foot-title{
+    font: bold 12px sans-serif;
+    text-align: left;
+    color: #cccccc;
+    margin: 5px 160px;
+}
+
+#foot-text{
+    font: normal 14px sans-serif;
+    text-align: left;
+    color: #cccccc;
+    margin: 0px 160px;
+}
+
+.menu-foot{
+    display: inline-block;
+}
+
+footer fieldset{
+    text-align: left;
+    border: none;
+    width: 0%;
+    margin: 0px;
+    background: rgba(0,0,0,0);
+}
+
+
+#footer-title{
+    font: bold 0px sans-serif;
+    margin: 0px;
+    color: #eee;
+    padding: 0px;
+    border-radius: 7px;
+    transition: 0.5s;
+}
+
+#footer-title:hover{
+    background: #eee;
+    color: #eee;
+}
+
+#footer-txt{
+    font: normal 0px sans-serif;
+    margin: 0 0px;
+    color: #eee;
+    padding: 0px;
+    border-radius: 10px;
+    transition: 0.1s;
+}
+
+#footer-txt:hover{
+    background: #eee;
+    color: #eee;
+}
+
+footer #footer-txt a{
+    font: normal 0px sans-serif;
+    margin: 0px;
+    color: #eee;
+}
+
+#footer-txt a:hover{
+    background: #eee;
+    color: #eee;
+}
+
+footer .linea{
+    color: #eee;
+}
+
+footer fieldset{
+    border-color: #0099FF;
+}}    

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/header.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/menu.css">
+        <link rel="stylesheet" href="css/fontello.css">
+        <title>PizzApp</title>
+    </head>
+    <body>
+        <header>
+            <h1>PizzApp</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#">Autenticarse</a></li>
+                <li><a href="#">Pedidos Rápidos</a></li>
+                <li><a href="#">Combos Promocionales</a></li>
+                <li><a href="#">Armar Combo a la medida</a></li>
+            </ul>
+        </nav>
+        <footer>
+        </footer>
+    </body>
+</html>
