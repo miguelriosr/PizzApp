@@ -24,7 +24,7 @@ header h1{
 header h1 a{
     color: #eee;
     text-decoration: none;
-    transition: 5s;
+    transition: 4s;
 }
 
 header h1 a:hover{
