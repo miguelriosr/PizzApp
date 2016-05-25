@@ -1,0 +1,136 @@
+.banner{
+    margin-top: 70px;
+}
+
+.banner img{
+    height: 100%;
+    width: 100%;
+}
+
+.title-banner{
+    color: #eee;
+    margin-top: 13%;
+    margin-left: 24%;
+    font-size: 7rem;
+    text-align: center;
+    position: absolute;
+    z-index: 100;
+}
+
+@media screen and (max-width:1300px){
+
+.title-banner{
+        margin-left: 20%;
+}
+}
+
+@media screen and (max-width:1100px){
+
+.title-banner{
+        margin-left: 18%;
+}
+}
+
+@media screen and (max-width:1000px){
+
+.title-banner{
+    margin-top: 10%;
+    margin-left: 14%;
+}
+}
+
+@media screen and (max-width:900px){
+
+.title-banner{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+}
+
+@media screen and (max-width:840px){
+
+.title-banner{
+    font-size: 5rem;
+    margin-left: 20%;
+}
+}
+
+@media screen and (max-width:800px){
+
+.title-banner{
+    font-size: 5rem;
+    margin-left: 17%;
+}
+}
+
+@media screen and (max-width:700px){
+
+.title-banner{
+    font-size: 5rem;
+    margin-left: 13%;
+}
+}
+
+@media screen and (max-width:600px){
+
+.title-banner{
+    margin-top: 9%;
+    font-size: 5rem;
+    margin-left: 9%;
+}
+}
+
+@media screen and (max-width:550px){
+
+.title-banner{
+    margin-top: 13%;
+    font-size: 3rem;
+    margin-left: 22%;
+}
+}
+
+@media screen and (max-width:500px){
+
+.title-banner{
+    margin-top: 15%;
+    font-size: 2rem;
+    margin-left: 28%;
+}
+}
+
+@media screen and (max-width:450px){
+
+.title-banner{
+    margin-top: 13%;
+    font-size: 2rem;
+    margin-left: 26%;
+}
+}
+
+@media screen and (max-width:425px){
+
+.title-banner{
+    margin-top: 12%;
+    font-size: 2rem;
+    margin-left: 23%;
+}
+}
+
+
+@media screen and (max-width:400px){
+
+.title-banner{
+    margin-top: 10%;
+    font-size: 2rem;
+    margin-left: 22%;
+}
+}
+
+@media screen and (max-width:350px){
+
+.title-banner{
+    margin-top: 10%;
+    font-size: 2rem;
+    margin-left: 18%;;
+}
+}

@@ -1,0 +1,59 @@
+commit 0e29442d4bdecd7cdc9f5731e0e359863997ed7c
+Author: Miguel <m1gu3l4ng3l@gmail.com>
+Date:   Sun May 22 21:52:30 2016 -0500
+
+    Ultima modificacion antes de presentar
+
+commit 00a09c0333bddff3bc08c707457d1210cb1369ce
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Sun May 22 21:49:41 2016 -0500
+
+    Ultima mod antes de presentar
+
+commit cc9dc5c9a9b9145d4d50380d924e85c3b5c290de
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Sun May 22 21:37:39 2016 -0500
+
+    Front-end listo para primer presentacion
+
+commit 983df4513ff386f811c117561f1fa28d883700e7
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Sun May 22 21:08:48 2016 -0500
+
+    Imagen BANNER Agregada
+
+commit 9b91016091c9625667f226a0603a9f4842b3d219
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Sun May 22 06:37:19 2016 -0500
+
+    V1.1.0.0. FRONT-END
+
+commit 39a2fceac7c51bd3a1d5d55338540b5346179810
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Sun May 22 01:28:47 2016 -0500
+
+    Version 1 FrontEnd
+
+commit eb125dd8fd9f3efc329550b36be68e152dc289e4
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Thu May 19 19:15:32 2016 -0500
+
+    tomando forma
+
+commit 26a2249453bcb1a5cb45338e0a444ab358a7049a
+Author: MiguelRios <DevStation@localhost.localdomain>
+Date:   Thu May 19 17:43:37 2016 -0500
+
+    Add MenuLateral
+
+commit 0fd3766e41f4c10af2c34341c811744c12df284e
+Author: Miguel Rios <DevStation@localhost.localdomain>
+Date:   Thu May 19 12:43:57 2016 -0500
+
+    Primer Commit desde PC
+
+commit 87c81ecb8a996dee4898828c14fcb51ae27b92b9
+Author: Miguel Rios <m1gu3l4ng3l23@gmail.com>
+Date:   Thu May 19 12:33:24 2016 -0500
+
+    Initial commit
