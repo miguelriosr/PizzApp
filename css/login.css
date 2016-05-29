@@ -1,0 +1,54 @@
+a{
+    text-decoration: none;
+}
+fieldset{
+    border: none;
+    width: 400px;
+    margin-top: 140px;
+    margin-left: 10px;
+}
+
+fieldset form{
+    text-align: center;
+}
+
+fieldset form input{
+    border: 1px solid #ddd;
+    height: 30px;
+    width: 100%;
+}
+
+fieldset form #btn{
+    font-family: sans-serif;
+    cursor: pointer;
+    height: 40px;
+    width: 100%;
+    color: #ccccca;
+	background: #00aa00;
+    box-shadow: rgb(0,90,0) 0px 5px 0px;
+	border: 0px solid grey;
+	border-radius: 3px;
+    text-decoration: none;
+}
+fieldset form #btn:hover{
+    background: rgb(10,200,10);
+	color: #ffffff;
+}
+
+fieldset form p{
+    color: #444;
+    text-align: left;
+}
+
+@media screen and (max-width:450px){
+    fieldset{
+        border: none;
+        width: 280px;
+        margin-top: 100px;
+        margin-left: 10px;
+    }
+    
+    fieldset form #btn{
+        height: 35px;
+    }
+}
