@@ -1,0 +1,22 @@
+.textos{
+    text-align: left;
+}
+
+.textos article{
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.textos h2{
+    color: #999;
+    font-size: 60px;
+    font-family: serif;
+}
+
+.textos p{
+    margin-left: 2px;
+    font-size: 13px;
+    text-align: justify;
+    color: #666;
+    font-family: monospace;
+}

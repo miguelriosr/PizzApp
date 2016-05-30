@@ -2,7 +2,7 @@ footer{
 	background-color: #2d2d2d;
 	font: normal 11px sans-serif;
 	color: white;
-	margin-top: 20px;
+	margin: 0;
 	padding: 10px;
     text-align: center;
 }
@@ -98,7 +98,7 @@ footer{
     background: rgba(0,0,0,.8);
     font: normal 11px gisha, arial, sans-serif;
     color: white;
-    margin-top: 20px;
+    margin: 0;
     padding: 10px;
     text-align: center;
 }
