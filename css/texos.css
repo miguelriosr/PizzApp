@@ -1,5 +1,5 @@
 .textos{
-    text-align: left;
+    text-align: center;
 }
 
 .textos article{
@@ -8,15 +8,32 @@
 }
 
 .textos h2{
+    text-align: left;
     color: #999;
-    font-size: 60px;
+    font-size: 50px;
     font-family: serif;
 }
 
 .textos p{
-    margin-left: 2px;
+    margin-left: 3px;
     font-size: 13px;
     text-align: justify;
     color: #666;
     font-family: monospace;
+}
+
+.textos fieldset{
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+    height: 50vh;
+    margin: 20px;
+}
+
+@media screen and (max-width:840px){
+    .textos fieldset{
+        text-align: center;
+        display: block;
+        width: auto;
+    }
 }
